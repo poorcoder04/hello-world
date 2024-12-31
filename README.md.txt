@@ -7,3 +7,5 @@ New line is created for edit in the github
 Another line is added.
 
 My name is Rakibul hasan 
+A new line is added in local repository for new branch
+>>>>>>> e23291320073ad21d613cb2af482b4d25ec6d0ff
